@@ -1,2 +1,2 @@
-# G-sync
+# GSync
 First IOS App development
